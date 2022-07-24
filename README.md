@@ -43,7 +43,7 @@ c.) include the custom "number of characters" column we had created in our input
 
 d.) Creating an ensemble classifier using two highest precision models after our above 3 experiments
 
-After all experimentations the best performance is by Multinomial Naive Bayes Classifier keeping max_features as 3000 in tfidf vectorizer
+After all experimentations the best performance is by Multinomial Naive Bayes Classifier keeping max_features as 3000 in tfidf vectorizer. The accuracy is 98.35% and precision is 1.0 (we use precision as we have an imblanaced dataset)
 
 ### 6.) Pickling : The vectorizer and best performing model are pickled to be deployed using Streamlit
 
