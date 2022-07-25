@@ -12,7 +12,7 @@ encoding categorical labels in target column
 
 dealing with nulls
 
-dealing with duplciates
+dealing with duplicates
 
 ### 2.) EDA
 
